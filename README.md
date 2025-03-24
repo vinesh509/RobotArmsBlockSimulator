@@ -2,8 +2,7 @@
 
 1. Project Overview
 
-The Block_simulator_arms.cpp project is a C++ simulation of a dual-robotic-arm system designed to rearrange blocks between two locations (L1 and L2). It transforms an initial state into a user-defined final state 
-through robotic operations like pickup, move, and stack.
+The Block_simulator_arms.cpp project is a C++ simulation of a dual-robotic-arm system designed to rearrange blocks between two locations (L1 and L2). It transforms an initial state into a user-defined final state through robotic operations like pickup, move, stack, unstack, and putdown.
 
 This simulation models real-world logistics automation and manufacturing assembly line operations where robotic arms coordinate to manipulate objects.
 
